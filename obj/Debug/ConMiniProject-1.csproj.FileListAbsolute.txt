@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConMiniProject-1\ConMiniProject-1\bin\Debug\ConMiniProject-1.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConMiniProject-1\ConMiniProject-1\bin\Debug\ConMiniProject-1.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConMiniProject-1\ConMiniProject-1\bin\Debug\ConMiniProject-1.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConMiniProject-1\ConMiniProject-1\obj\Debug\ConMiniProject-1.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConMiniProject-1\ConMiniProject-1\obj\Debug\ConMiniProject-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConMiniProject-1\ConMiniProject-1\obj\Debug\ConMiniProject-1.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConMiniProject-1\ConMiniProject-1\obj\Debug\ConMiniProject-1.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConMiniProject-1\ConMiniProject-1\obj\Debug\ConMiniProject-1.pdb
